@@ -1,0 +1,23 @@
+No van:
+
+
+Acacia
+Garage Ceiling
+Industrial_pipe_v1 (1)
+Pipes_set_v1_H_set_v2
+wooden_platform_1
+Barrel_v2_quadro
+Concrete_fence_v2_Gate
+
+
+Ver SM_fence_base
+
+Hay prefabs repetidos adentro de otros prefabs
+Módulo Basura
+
+Dudosos:
+Building
+Barrel_v2_quadro
+Building del fondo.
+Pipes curva chiquita
+Módulo Calle
