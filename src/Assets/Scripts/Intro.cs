@@ -7,7 +7,9 @@ using UnityEngine.UI;
 public class Intro : MonoBehaviour
 {
     Button button;
-
+    [SerializeField]
+    string[] texts;
+        
     public void OnStart(Action cb)
     {
         FindObjectOfType<MainMenu>().gameObject.SetActive(false);
